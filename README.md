@@ -16,6 +16,6 @@ O programa funciona de forma simples:
 
 O computador faz uma escolha aleatória entre Pedra, Papel e Tesoura.
 O jogador escolhe uma das opções (digitando 0, 1 ou 2).
-O programa imprime uma animação simples com o texto "JO", "KEN" e "PO!" para simular a contagem de 3.
+O programa imprime uma animação simples com o texto "JO", "KEN" e "PO!" para simular a contagem de 3 segundos.
 O programa então compara as escolhas e determina o vencedor.
 O jogo exibe o resultado, dizendo se o jogador ou o computador ganhou ou se houve empate.
